@@ -6,15 +6,15 @@ ________________________________________________________________________________
 
 <p align="left"> <a href="https://twitter.com/kinderasteroid" target="blank"><img src="https://img.shields.io/twitter/follow/kinderasteroid?logo=twitter&style=for-the-badge" alt="kinderasteroid" /></a> </p>
 
-- 🌱 I’m currently learning **Tensorflow and MATLAB**
+- 🌱 NEW GirlFriend: **Tensorflow and MATLAB**
 
 - 💬 Ask me about **Gaming,IOT,AI/ML/DL,Web,Backend,Music**
 
-- 📫 How to reach me **bhandarysuhas7@gmail.com**
+- 📫 Never Mail me @ **bhandarysuhas7@gmail.com**
 
-- 📄 Know about my experiences [https://suhassbhandary.tiiny.site/](https://suhassbhandary.tiiny.site/)
+- 📄 Pause and Ress= [https://suhassbhandary.tiiny.site/](https://suhassbhandary.tiiny.site/)
 
-- ⚡ Fun fact **I am More Funny and Pissed Soul sedddd!**
+- ⚡ **90% sugar, 10% spicy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
