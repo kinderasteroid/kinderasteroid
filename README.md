@@ -2,7 +2,7 @@
 _______________________________________________________________________________________________________________________________________________________________________________
 <h3 align="center"> Unveiling the Chapters of kinderasteroid's Journey🐍</h3>
 
-[![](https://visitcount.itsvg.in/api?id=kinderasteroid&icon=1&color=5)](https://visitcount.itsvg.in)
+
 
 <p align="left"> <a href="https://twitter.com/kinderasteroid" target="blank"><img src="https://img.shields.io/twitter/follow/kinderasteroid?logo=twitter&style=for-the-badge" alt="kinderasteroid" /></a> </p>
 
@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 - ⚡ **90% sugar, 10% spicy**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kinderasteroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kinderasteroid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suhassbhandary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhassbhandary" height="30" width="40" /></a>
@@ -29,8 +29,7 @@ ________________________________________________________________________________
 
 <h1 align="left">🔑BrainBase:</h1>
 <h2>⚙FrontEnd:</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,)](https://skillicons.dev)
-
+![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)
 
 
 
