@@ -1,3 +1,4 @@
+
 <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=438&height=150&lines=Haiai%2CI+am+Suhas%F0%9F%92%A3%F0%9F%91%8B;Welcome+To+My+Den%F0%9F%A6%81" alt="Typing SVG" /></a>
 _______________________________________________________________________________________________________________________________________________________________________________
 <h3 align="center"> Unveiling the Chapters of kinderasteroid's Journey🐍</h3>
@@ -28,8 +29,28 @@ ________________________________________________________________________________
 </p>
 
 <h1 align="left">🔑BrainBase:</h1>
-<h2>⚙FrontEnd:</h2>
-![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)
+<h2>⚙LANGUAGES:</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,latex,markdown,php,python,html,css,js)](https://skillicons.dev)
+<h2>⚙HOSTING AND SERVER:</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,apache)](https://skillicons.dev)
+<h2>⚙FRAMEWORKS, PLATFORMS & LIBRARIES:</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=django,bootstrap,jquery,react,sass)](https://skillicons.dev)
+<h2>⚙DATABASE:</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev)
+
+<h2>⚙Machine Learning and Deep Learning</h2>
+
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=keras,numpy,pandas,plotly)](https://skillicons.dev)
+
+<h2>⚙IOT AND TOOLS:</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,vscode,git,github,docker)](https://skillicons.dev)
+
 
 
 
