@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Suhas S Bhandary</h1>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=438&height=150&lines=Haiai%2CI+am+Suhas%F0%9F%92%A3%F0%9F%91%8B;Welcome+To+My+Den%F0%9F%A6%81" alt="Typing SVG" /></a>
+_______________________________________________________________________________________________________________________________________________________________________________
 <h3 align="center">Self Learner and AI Enthuasist From Mangalore,India Who is Unveiling the Chapters of kinderasteroid's Journey🐍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinderasteroid&label=Profile%20views&color=0e75b6&style=flat" alt="kinderasteroid" /> </p>
