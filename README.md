@@ -5,7 +5,6 @@ ________________________________________________________________________________
 <h3 align="center"> Unveiling the Chapters of kinderasteroid's Journey🐍</h3>
 
 
-
 <p align="left"> <a href="https://twitter.com/kinderasteroid" target="blank"><img src="https://img.shields.io/twitter/follow/kinderasteroid?logo=twitter&style=for-the-badge" alt="kinderasteroid" /></a> </p>
 
 - 🌱 NEW GirlFriend: **Tensorflow and MATLAB**
@@ -73,8 +72,5 @@ ________________________________________________________________________________
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-
-
-
 
 ![snake gif](https://github.com/kinderasteroid/kinderasteroid/blob/output/github-contribution-grid-snake.gif)
