@@ -37,10 +37,10 @@ ________________________________________________________________________________
 [![My Skills](https://skillicons.dev/icons?i=aws,apache)](https://skillicons.dev)
 <h2>⚙FRAMEWORKS, PLATFORMS & LIBRARIES:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=django,bootstrap,jquery,react,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,bootstrap,react)](https://skillicons.dev)
 <h2>⚙DATABASE:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
 
 <h2>⚙Machine Learning and Deep Learning</h2>
 
