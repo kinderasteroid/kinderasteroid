@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 <p align="left"> <a href="https://twitter.com/kinderasteroid" target="blank"><img src="https://img.shields.io/twitter/follow/kinderasteroid?logo=twitter&style=for-the-badge" alt="kinderasteroid" /></a> </p>
 
-- 🌱 NEW GirlFriend: **Tensorflow and MATLAB**
+- 🌱 NEW SuperPower: **Tensorflow and MATLAB**
 
 - 💬 Ask me about **Gaming,IOT,AI/ML/DL,Web,Backend,Music**
 
