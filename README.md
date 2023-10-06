@@ -28,28 +28,102 @@ ________________________________________________________________________________
 <a href="https://discord.gg/https://discord.gg/cwc7veZPBk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cwc7veZPBk" height="30" width="40" /></a>
 </p>
 
-<h1 align="left">🔑BrainBase:</h1>
-<h2>⚙LANGUAGES:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,latex,markdown,php,python,html,css,js)](https://skillicons.dev)
-<h2>⚙HOSTING AND SERVER:</h2>
+<table><tr ><th colspan="3"><h2>🤹🏻Tech Stack🤹🏻</h2></th></tr><tr><td valign="top" width="33%">
 
-[![My Skills](https://skillicons.dev/icons?i=aws,apache)](https://skillicons.dev)
-<h2>⚙FRAMEWORKS, PLATFORMS & LIBRARIES:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=django,bootstrap,react)](https://skillicons.dev)
-<h2>⚙DATABASE:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
+### Frontend  
 
-<h2>⚙Machine Learning and Deep Learning</h2>
 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-[![My Skills](https://skillicons.dev/icons?i=keras,numpy,pandas,plotly)](https://skillicons.dev)
+<div align="center">  
+  <hr>
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=django" alt="JavaScript" height="50" />
+ 
+</div>
 
-<h2>⚙IOT,EDITOR AND TOOLS:</h2>
+</td><td valign="top" width="33%">
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,vscode,git,github,docker,vim,matlab)](https://skillicons.dev)
+
+
+### Backend  
+<div align="center">  
+  <hr>
+  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+  <img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Python" height="50" />
+  <img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="Python" height="50" />
+  <img style="margin: 10px" src="https://skillicons.dev/icons?i=md,latex,php" alt="Python" height="50" />
+
+  
+ 
+ 
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+  <hr>
+  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+  <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+  <img style="margin: 10px" src="https://skillicons.dev/icons?i=aws,github" alt="Nginx" height="50" />
+</div>
+
+</td></tr>
+<tr><td valign="top" width="33%">
+
+
+
+### AI/ML
+<hr>
+
+<div align="center">  
+ <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <img src="https://skillicons.dev/icons?i=matlab" alt="tensorflow" width="45" height="45"/> </p>
+ 
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Database 
+<div align="center">  
+  <hr>
+  <a href="" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="C++" height="50" /></a>  
+
+
+  
+ 
+ 
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### IOT And IDE
+<div align="center">  
+  <hr>
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode,eclipse,vim,matlab" alt="Linux" height="50" />
+  
+</div>
+
+</td></tr>
+</table>  
+<br/>  
+
+
 
 
 
