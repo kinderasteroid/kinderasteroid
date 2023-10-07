@@ -13,14 +13,9 @@ I am a dedicated coder with a deep-rooted passion for technology. With a relentl
 <a href="https://github.com/kinderneutron"><img src="https://img.shields.io/badge/Organization_Owner-KinderNeutron-506365?style=for-the-badge&logo=instatus&labelColor=428813"></a>
 
 
-<div align="right">
-<img width="300" height="300" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif">
-</div>
-
-
 - 🌱 NEW SuperPower: **Tensorflow and MATLAB**
 
-- 💬 Ask me about **Gaming,IOT,AI/ML/DL,Web,Backend,Music**
+- 💬 Ask me about **Gaming,IOT,AI/ML/DL,Web,Backend,Music
 
 - 📫 Never Mail me @ **bhandarysuhas7@gmail.com**
 
@@ -28,12 +23,13 @@ I am a dedicated coder with a deep-rooted passion for technology. With a relentl
 
 - ⚡ **90% sugar, 10% spicy**
 
-<h3 align="left">🤝Connect with me:</h3>
+<hr>
 <p align="left">
 <a href="https://linkedin.com/in/suhassbhandary" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="suhassbhandary" height="50" width="50" /></a>
 <a href="https://instagram.com/kinderasteroid" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" width="50" /></a>
 <a href="https://discord.gg/https://discord.gg/cwc7veZPBk" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="https://discord.gg/cwc7veZPBk" height="50" width="50" /></a>
 </p>
+<hr>
 
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
@@ -153,8 +149,7 @@ I am a dedicated coder with a deep-rooted passion for technology. With a relentl
 <br/>  
 
 
-
-
+![DINO](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
 
 
 # 📊 GitHub Stats:
