@@ -1,11 +1,18 @@
-![](https://github.com/kinderasteroid/kinderasteroid/blob/main/Github%20Banner.png)
+
+![Blue, Green, and White Modern Tech Web Developer LinkedIn Banner](https://github.com/kinderasteroid/kinderasteroid/assets/84179566/e0519090-e795-48c4-9113-90b5c88e423d)
 
 <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=438&height=150&lines=Haiai%2CI+am+Suhas%F0%9F%92%A3%F0%9F%91%8B;Welcome+To+My+Den%F0%9F%A6%81" alt="Typing SVG" /></a>
 _______________________________________________________________________________________________________________________________________________________________________________
 <h3 align="center"> Unveiling the Chapters of kinderasteroid's Journey🐍</h3>
-
+<br>
+I am a dedicated coder with a deep-rooted passion for technology. With a relentless curiosity for innovation and a keen eye for detail, I have continually embraced the ever-evolving landscape of programming languages, software development, and emerging technologies. My mission is to leverage my coding skills and tech-driven mindset to contribute to groundbreaking projects and help shape the future of technology.
 
 <p align="left"> <a href="https://twitter.com/kinderasteroid" target="blank"><img src="https://img.shields.io/twitter/follow/kinderasteroid?logo=twitter&style=for-the-badge" alt="kinderasteroid" /></a> </p>
+
+<br>
+<br>
+<button name="button" onclick="http://www.google.com">Click me</button>
+
 
 - 🌱 NEW SuperPower: **Tensorflow and MATLAB**
 
@@ -13,21 +20,16 @@ ________________________________________________________________________________
 
 - 📫 Never Mail me @ **bhandarysuhas7@gmail.com**
 
-- 📄 Pause and Resume [https://suhassbhandary.tiiny.site/](https://suhassbhandary.tiiny.site/)
+- 📄 [MY RESUME ](https://suhassbhandary.tiiny.site/)
 
 - ⚡ **90% sugar, 10% spicy**
 
 <h3 align="left">🤝Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kinderasteroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kinderasteroid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suhassbhandary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhassbhandary" height="30" width="40" /></a>
-<a href="https://kaggle.com/kinderasteroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kinderasteroid" height="30" width="40" /></a>
-<a href="https://fb.com/suhas s bhandary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suhas s bhandary" height="30" width="40" /></a>
-<a href="https://instagram.com/kinderasteroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kinderasteroid" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kinderasteroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kinderasteroid" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/cwc7veZPBk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cwc7veZPBk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suhassbhandary" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="suhassbhandary" height="50" width="50" /></a>
+<a href="https://instagram.com/kinderasteroid" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" width="50" /></a>
+<a href="https://discord.gg/https://discord.gg/cwc7veZPBk" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="https://discord.gg/cwc7veZPBk" height="50" width="50" /></a>
 </p>
-
 
 <table><tr ><th colspan="3"><h2>🤹🏻Tech Stack🤹🏻</h2></th></tr><tr><td valign="top" width="33%">
 
