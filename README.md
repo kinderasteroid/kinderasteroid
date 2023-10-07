@@ -46,7 +46,7 @@ I am a dedicated coder with a deep-rooted passion for technology. With a relentl
 
 - 💬 Ask me about **Gaming,IOT,AI/ML/DL,Web,Backend,Music
 
-- 📫 Never Mail me @ **bhandarysuhas7@gmail.com**
+- 📫 Never Mail me @ ```  bhandarysuhas7@gmail.com  ```
 
 - 📄 [MY RESUME ](https://suhassbhandary.tiiny.site/)
 
