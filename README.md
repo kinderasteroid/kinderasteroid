@@ -6,13 +6,11 @@ ________________________________________________________________________________
 <h3 align="center"> Unveiling the Chapters of kinderasteroid's Journey🐍</h3>
 <br>
 I am a dedicated coder with a deep-rooted passion for technology. With a relentless curiosity for innovation and a keen eye for detail, I have continually embraced the ever-evolving landscape of programming languages, software development, and emerging technologies. My mission is to leverage my coding skills and tech-driven mindset to contribute to groundbreaking projects and help shape the future of technology.
-
-<p align="left"> <a href="https://twitter.com/kinderasteroid" target="blank"><img src="https://img.shields.io/twitter/follow/kinderasteroid?logo=twitter&style=for-the-badge" alt="kinderasteroid" /></a> </p>
-
 <br>
 <br>
-<button name="button" onclick="http://www.google.com">Click me</button>
 
+<a href="https://twitter.com/kinderasteroid" target="blank"><img src="https://img.shields.io/twitter/follow/kinderasteroid?logo=twitter&style=for-the-badge" alt="kinderasteroid" /></a>
+<a href="https://github.com/kinderneutron"><img src="https://img.shields.io/badge/Organization_Owner-KinderNeutron-506365?style=for-the-badge&logo=instatus&labelColor=428813"></a>
 
 - 🌱 NEW SuperPower: **Tensorflow and MATLAB**
 
