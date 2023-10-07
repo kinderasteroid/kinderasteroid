@@ -2,7 +2,7 @@
 
 ![Blue, Green, and White Modern Tech Web Developer LinkedIn Banner](https://github.com/kinderasteroid/kinderasteroid/assets/84179566/e0519090-e795-48c4-9113-90b5c88e423d)
 
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=438&height=150&lines=Haiai%2CI+am+Suhas%F0%9F%92%A3%F0%9F%91%8B;Welcome+To+My+Den%F0%9F%A6%81" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=438&height=150&lines=Haiai%2CI+am+Suhas%F0%9F%92%A3%F0%9F%91%8B;Welcome+To+My+Den%F0%9F%A6%81" alt="Typing SVG" /></a>
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
