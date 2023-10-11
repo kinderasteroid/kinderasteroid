@@ -1,4 +1,4 @@
-
+![](https://github.com/kinderasteroid/kinderasteroid/blob/main/profile-3d-contrib/profile-season-animate.svg)
 
 ![Blue, Green, and White Modern Tech Web Developer LinkedIn Banner](https://github.com/kinderasteroid/kinderasteroid/assets/84179566/e0519090-e795-48c4-9113-90b5c88e423d)
 
