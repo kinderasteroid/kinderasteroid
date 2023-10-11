@@ -180,8 +180,9 @@ I am a dedicated coder with a deep-rooted passion for technology. With a relentl
 
 ![DINO](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
 
+<table>
+<h1 align="center">📊 GitHub Gauge</h1>
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kinderasteroid&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kinderasteroid&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kinderasteroid&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
