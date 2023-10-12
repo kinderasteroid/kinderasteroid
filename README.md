@@ -1,4 +1,3 @@
-![Hello](https://github.com/kinderasteroid/kinderasteroid/blob/main/profile-3d-contrib/profile-season-animate.svg)
 
 ![Blue, Green, and White Modern Tech Web Developer LinkedIn Banner](https://github.com/kinderasteroid/kinderasteroid/assets/84179566/e0519090-e795-48c4-9113-90b5c88e423d)
 
@@ -182,22 +181,41 @@ I am a dedicated coder with a deep-rooted passion for technology. With a relentl
 
 <table>
 <h1 align="center">📊 GitHub Gauge</h1>
+<table>
+	<tr>
+		<td><a href=""><img src="https://github-readme-stats.vercel.app/api?username=kinderasteroid&theme=blue-green&hide_border=false&count_private=true"></a></td>
+		<td><a href=""><img width=70% src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinderasteroid&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></a></td>
+	</tr>
+	<tr>
+		<td  align="center" colspan = "2"><a  href=""><img width=80% src="https://github-profile-trophy.vercel.app/?username=kinderasteroid&column=-1&theme=radical&no-frame=false&no-bg=true&margin-w=4"></a></td>
+	</tr>
+    <tr>
+        <td >
+            <a  href=""><img width=100% src="https://github-contributor-stats.vercel.app/api?username=kinderasteroid&limit=5&theme=blue-green&combine_all_yearly_contributions=true"></a>
+        </td>
+        <td>
+            <a  href=""><img width=100% src="https://github-readme-streak-stats.herokuapp.com/?user=kinderasteroid&theme=blue-green&hide_border=false"></a>
+        </td>
+    </tr>
+</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kinderasteroid&theme=merko&hide_border=true&custom_title=⭐Kinderasteroid⭐" width="100%">
 
-![](https://github-readme-stats.vercel.app/api?username=kinderasteroid&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kinderasteroid&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kinderasteroid&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <hr>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kinderasteroid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kinderasteroid&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+<hr>
+
+<div align = "center">
+	<h3>Show some 🤍 by ✨ some of my repositories!</h3>
+</div>
 
 ---
 
