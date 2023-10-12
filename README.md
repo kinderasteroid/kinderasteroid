@@ -32,6 +32,7 @@
 _______________________________________________________________________________________________________________________________________________________________________________
 <h3 align="center"> Unveiling the Chapters of kinderasteroid's Journey🐍</h3>
 <div align="center"> <img  src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400"></div>
+<div align="center"><img  width = 25% src = "https://profile-counter.glitch.me/{kinderasteroid}/count.svg"></div><h2 align="center"> 👁️Unveiled👁️</h2>
 <br>
 I am a dedicated coder with a deep-rooted passion for technology. With a relentless curiosity for innovation and a keen eye for detail, I have continually embraced the ever-evolving landscape of programming languages, software development, and emerging technologies. My mission is to leverage my coding skills and tech-driven mindset to contribute to groundbreaking projects and help shape the future of technology.
 <br>
@@ -39,8 +40,7 @@ I am a dedicated coder with a deep-rooted passion for technology. With a relentl
 
 <a href="https://twitter.com/kinderasteroid" target="blank"><img src="https://img.shields.io/twitter/follow/kinderasteroid?logo=twitter&style=for-the-badge" alt="kinderasteroid" /></a>
 <a href="https://github.com/kinderneutron"><img src="https://img.shields.io/badge/Organization_Owner-KinderNeutron-506365?style=for-the-badge&logo=instatus&labelColor=428813"></a>
-
-
+<br>
 - 🌱 NEW SuperPower: **Tensorflow and MATLAB**
 
 - 💬 Ask me about **Gaming,IOT,AI/ML/DL,Web,Backend,Music
