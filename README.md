@@ -1,3 +1,6 @@
+![](https://github.com/kinderasteroid/kinderasteroid/blob/output/ocean.gif)
+
+![](https://github.com/kinderasteroid/kinderasteroid/blob/output/github-snake.svg)
 
 ![Blue, Green, and White Modern Tech Web Developer LinkedIn Banner](https://github.com/kinderasteroid/kinderasteroid/assets/84179566/e0519090-e795-48c4-9113-90b5c88e423d)
 
