@@ -1,6 +1,5 @@
-![](https://github.com/kinderasteroid/kinderasteroid/blob/output/ocean.gif)
 
-![](https://github.com/kinderasteroid/kinderasteroid/blob/output/github-snake.svg)
+
 
 ![Blue, Green, and White Modern Tech Web Developer LinkedIn Banner](https://github.com/kinderasteroid/kinderasteroid/assets/84179566/e0519090-e795-48c4-9113-90b5c88e423d)
 
@@ -60,6 +59,10 @@ I am a dedicated coder with a deep-rooted passion for technology. With a relentl
 <a href="https://instagram.com/kinderasteroid" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" width="50" /></a>
 <a href="https://discord.gg/https://discord.gg/cwc7veZPBk" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="https://discord.gg/cwc7veZPBk" height="50" width="50" /></a>
 </p>
+<hr>
+
+![](https://github.com/kinderasteroid/kinderasteroid/blob/output/github-snake-dark.svg)
+
 <hr>
 
 ```
