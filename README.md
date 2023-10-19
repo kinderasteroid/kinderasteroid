@@ -210,9 +210,11 @@ I am a dedicated coder with a deep-rooted passion for technology. With a relentl
   <hr>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Pins📍📌
 
+![An image of @kinderasteroid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kinderasteroid)
+
+<hr>
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
