@@ -227,4 +227,3 @@ I am a dedicated coder with a deep-rooted passion for technology. With a relentl
 
 ---
 
-![snake gif](https://github.com/kinderasteroid/kinderasteroid/blob/output/github-contribution-grid-snake.svg)
