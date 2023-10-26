@@ -197,10 +197,10 @@ I am a dedicated coder with a deep-rooted passion for technology. With a relentl
 	</tr>
     <tr>
         <td >
-            <a  href=""><img width=100% src="https://github-contributor-stats.vercel.app/api?username=kinderasteroid&limit=5&theme=blue-green&combine_all_yearly_contributions=true"></a>
+            <a><img width=100% src="https://github-contributor-stats.vercel.app/api?username=kinderasteroid&limit=5&theme=blue-green&combine_all_yearly_contributions=true"></a>
         </td>
         <td>
-            <a  href=""><img width=100% src="https://github-readme-streak-stats.herokuapp.com/?user=kinderasteroid&theme=blue-green&hide_border=false"></a>
+            <a><img width=100% src="https://github-readme-streak-stats.herokuapp.com/?user=kinderasteroid&theme=blue-green&hide_border=false"></a>
         </td>
     </tr>
 </table>
