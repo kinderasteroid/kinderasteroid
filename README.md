@@ -36,7 +36,7 @@ ________________________________________________________________________________
 <div align="center"> <img  src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400"></div>
 <div align="center"><img  width = 25% src = "https://profile-counter.glitch.me/{kinderasteroid}/count.svg"></div><h2 align="center"> 👁️Unveiled👁️</h2>
 <br>
-I am a dedicated coder with a deep-rooted passion for technology. With a relentless curiosity for innovation and a keen eye for detail, I have continually embraced the ever-evolving landscape of programming languages, software development, and emerging technologies. My mission is to leverage my coding skills and tech-driven mindset to contribute to groundbreaking projects and help shape the future of technology.
+I am a dedicated coder with a deep-rooted passion for technology. With a relentless curiosity for innovation and a keen eye for detail, I have continually embraced the ever-evolving landscape of programming languages, software development, and emerging technologies. My mission is to leverage my coding skills and tech-driven mindset to contribute to groundbreaking projects and help shape the future of technology..
 <br>
 <br>
 
