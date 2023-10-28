@@ -193,7 +193,7 @@ I am a dedicated coder with a deep-rooted passion for technology. With a relentl
 		<td><a><img width=80% src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinderasteroid&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></a></td>
 	</tr>
 	<tr>
-		<td  align="center" colspan = "2"><a  href=""><img width=100% src="https://github-profile-trophy.vercel.app/?username=kinderasteroid&column=-1&theme=radical&no-frame=false&no-bg=true&margin-w=4"></a></td>
+		<td  align="center" colspan = "2"><a><img width=100% src="https://github-profile-trophy.vercel.app/?username=kinderasteroid&column=-1&theme=radical&no-frame=false&no-bg=true&margin-w=4"></a></td>
 	</tr>
     <tr>
         <td >
