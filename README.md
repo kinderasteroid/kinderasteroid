@@ -58,7 +58,7 @@ I am a dedicated coder with a deep-rooted passion for technology. With a relentl
 <p align="left">
 <a href="https://linkedin.com/in/suhassbhandary" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="suhassbhandary" height="50" width="50" /></a>
 <a href="https://instagram.com/kinderasteroid" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" width="50" /></a>
-<a href="https://discord.gg/https://discord.gg/cwc7veZPBk" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="https://discord.gg/cwc7veZPBk" height="50" width="50" /></a>
+<a href="https://discord.gg/https://discord.gg/cwc7veZPBk" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="https://discord.gg/cwc7veZPBk" height="50" width="50 " /></a>
 </p>
 <hr>
 
