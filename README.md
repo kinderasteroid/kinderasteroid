@@ -1,4 +1,4 @@
-                                                                                    
+                                                                                     
   
 ![Blue Minimalist Profesional Personal Linkedln Banner](https://github.com/kinderasteroid/kinderasteroid/assets/84179566/28ca36fc-4cb1-4257-9fa1-8e497bced45e) 
 
