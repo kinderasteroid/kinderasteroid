@@ -45,7 +45,7 @@ I am a dedicated coder with a deep-rooted passion for technology. With a relentl
 <a href="https://twitter.com/kinderasteroid" target="blank"><img src="https://img.shields.io/twitter/follow/kinderasteroid?logo=twitter&style=for-the-badge" alt="kinderasteroid" /></a>
 <a href="https://github.com/kinderneutron"><img src="https://img.shields.io/badge/Organization_Owner-KinderNeutron-506365?style=for-the-badge&logo=instatus&labelColor=428813"></a>
 <br>
-- 🌱 NEW SuperPower: **Tensorflow and MATLAB**
+- 🏡 I am From: **127.0.0.1**
 
 - 💬 Ask me about **Gaming,IOT,AI/ML/DL,Web,Backend,Music.
 
