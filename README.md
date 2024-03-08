@@ -193,7 +193,7 @@ I am a dedicated coder with a deep-rooted passion for technology. With a relentl
 <table>
 	<tr>
 		<td><a ><img width=100% src="https://github-readme-stats.vercel.app/api?username=kinderasteroid&theme=blue-green&hide_border=false&count_private=true"></a></td>
-		<td><a><img width=80% src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinderasteroid&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></a></td>
+		<td><a href="https://wakatime.com/@kinderasteroid"><img src="https://wakatime.com/share/@kinderasteroid/bc6ea2c3-c5e4-4829-b504-4c05d4dfbabe.svg"></a>			</td>
 	</tr>
 	<tr>
 		<td  align="center" colspan = "2"><a><img width=100% src="https://github-profile-trophy.vercel.app/?username=kinderasteroid&column=-1&theme=radical&no-frame=false&no-bg=true&margin-w=4"></a></td>
@@ -205,8 +205,13 @@ I am a dedicated coder with a deep-rooted passion for technology. With a relentl
         <td>
             <a><img width=100% src="https://github-readme-streak-stats.herokuapp.com/?user=kinderasteroid&theme=blue-green&hide_border=false"></a>
         </td>
-    </tr>
+	 </tr>
+     <tr>
+		
+</tr>
+ 
 </table>
+	
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kinderasteroid&theme=merko&hide_border=true&custom_title=⭐Kinderasteroid⭐" width="100%">
 
 <div align="center">
